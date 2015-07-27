@@ -1,0 +1,24 @@
+#################
+## Custom
+#################
+
+# Java class files
+*.class
+
+# generated files
+.settings/
+bin/
+
+# Eclipse project files
+.classpath
+.project
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# OSX hidden files
+.DS_Store
+.localized
